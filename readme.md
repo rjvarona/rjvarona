@@ -1,4 +1,4 @@
-## Hey Everone!
+## Hey Everone! 👋
 
 <p>
     My name is RJ Varona. I just graduated from SAU with a B.S. in Computer Science 😄🎓. I am a passionate web developer currently learning about clean coding and more how-to-build JS frameworks. As for hobbies, I love to cook. I am currently exploring Filipino food and French pastries 🥐. I also love participating in fund raisers, so if you have need help raising money for a cause lmk. 
