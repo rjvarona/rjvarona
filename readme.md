@@ -7,4 +7,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rjvarona Spotify Playing" width="350" />](https://open.spotify.com/user/rjvarona)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rjvarona&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
