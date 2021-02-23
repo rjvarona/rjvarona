@@ -11,10 +11,6 @@
 - 🥅 2021 Goals: Find time to do meme.js, write cleaner code, do another fundraiser
 - ⚡ Fun fact: I can cook 1 minute rice in 59 seconds
 
-### Currently Vibing To 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rjvarona&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
 ### You Can Find Me On
 
 [<img align="left" alt="rjvarona.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
